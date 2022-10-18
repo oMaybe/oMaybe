@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaybe&label=Profile%20views&color=0e75b6&style=flat-square" alt="omaybe" /> </p>
 
-- 🔭 I’m currently working on [Star Utilities](https://youtube.com)
+- 🔭 I’m currently working on [Star Utilities](https://github.com/oMaybe/Star-Utilities)
 
 - 🌱 I’m currently learning **HTML & CSS**
 
-- 👨‍💻 All of my projects are available at [https://youtube.com](https://youtube.com)
+- 👨‍💻 All of my projects are available here on the bottom of the page
 
 - 💬 Ask me about **anything and I'll respond 🙃**
 
