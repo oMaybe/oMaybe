@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on [Star Utilities](https://github.com/oMaybe/Star-Utilities)
 
-- 🌱 I’m currently learning **HTML & CSS**
+- 🌱 I’m currently learning **C++**
 
 - 👨‍💻 All of my projects are available here on the bottom of the page
 
 - 💬 Ask me about **anything and I'll respond 🙃**
 
-- 📫 How to reach me **karam#0001 on discord**
+- 📫 How to reach me **@kaaram on discord**
 
 <p align="left">
 </p>
