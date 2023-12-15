@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omaybe&label=Profile%20views&color=0e75b6&style=flat-square" alt="omaybe" /> </p>
 
-- 🔭 I’m currently working on [Star Utilities](https://github.com/oMaybe/Star-Utilities)
+- 🔭 I’m currently working on [RUXOR](https://github.com/oMaybe)
 
 - 🌱 I’m currently learning **C++**
 
